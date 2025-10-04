@@ -1,0 +1,222 @@
+/* Template Name: United Pets */
+
+/* General Styles */
+a, .nav-link {
+    color: #9F958D;
+}
+
+a:hover, a:focus, .nav-link:hover, .nav-link:focus {
+    color: #D61C62;
+    background-color: #1446A0;
+}
+
+/* Buttons */
+.btn-primary, .list-group-item.active, .alert-secondary {
+    background-color: #E6E6E6;
+    color: rgb(0, 0, 0);
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #D61C62;
+}
+
+.btn-secondary, .btn-secondary:not(:disabled):not(.disabled):active:focus {
+    background-color: #9F958D;
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+    background-color: #D61C62;
+}
+
+.btn-quaternary, .btn-quaternary:hover, .btn-quaternary:focus {
+    background-color: #D61C62;
+}
+
+.btn-tertiary, .btn-tertiary:hover, .btn-tertiary:focus {
+    background-color: #991849;
+}
+
+/* Backgrounds */
+.bg-primary {
+    background-color: #9F958D;
+}
+
+.bg-secondary {
+    background-color: #9F958D;
+}
+
+.bg-secondary-light {
+    background-color: #DCDCDC;
+}
+
+/* Hover Effects */
+.feature-with-icon:hover i,
+.btn-quaternary:hover,
+.badge-default,
+.dropdown-menu,
+.back-to-top i:hover,
+.alert-secondary,
+.badge-secondary,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover,
+.nav-pills .nav-link:focus,
+.nav-pills .show > .nav-link,
+.list-group-item.active,
+.figure.team-style2 figcaption .icons i,
+.page-link:hover,
+.page-link.active,
+.team-style1 .social {
+    background-color: #018AE0;
+}
+
+/* Text Colors */
+.testimonial-pic > img,
+.text-secondary {
+    color: #018AE0 !important;
+}
+
+.section-heading h2:after,
+ul.social-media i,
+.owl-prev i:hover,
+.owl-next i:hover,
+.breadcrumb a:hover,
+.widget1 .colored-icons i,
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.navbar .nav-link:focus,
+.navbar .nav-item:hover,
+.navbar .nav-item .active,
+.team-style2 .img-box a:hover li,
+.section-heading h2:before,
+.navbar-brand i,
+.serviceBox:hover .service-icon i,
+figure.team-style3 h6,
+figure.team-style2 .name h6,
+ul.custom li:before,
+testimonial .content:before,
+owl-theme .owl-nav [class*='owl-']:hover,
+.spinner .bounce1:after,
+.team-style2 span {
+    color: #9F958D;
+}
+
+.text-primary {
+    color: #1446A0 !important;
+}
+
+/* Links and Icons */
+.custom-link,
+.form-control:focus,
+.adopt-image,
+.team-style2 .img-box .social-icons li {
+    border-color: #018AE0;
+}
+
+.lds-ring div {
+    border: 6px solid #018AE0;
+    border-color: #018AE0 transparent transparent transparent;
+}
+
+/* Navigation */
+.top-bar {
+    background-color: #9F958D;
+}
+
+/* Accordion */
+.accordion .card-link,
+.serviceBox1 .title a:hover,
+.text-tertiary,
+.icon-box i,
+.blog-card .post-info:before,
+.color1,
+.header-text:before,
+ul.social-media li:hover i,
+.navbar-brand span,
+.adopt-card-info i,
+.counter .counter-icon {
+    color: #1446A0;
+}
+
+/* Cards and Team Section */
+.accordion-cards .card-header,
+.page-item.active .page-link,
+.progress-bar,
+.service-hover-box .service-hover-caption,
+figure.team-style2 .name,
+.team-style1:hover .team-image,
+.page-link,
+footer,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover,
+.nav-pills .nav-link:focus,
+.nav-pills .show > .nav-link {
+    background-color: #991849;
+}
+
+/* Pink */
+.blog-box .date,
+.feature-with-icon i,
+.btn-quaternary,
+.breadcrumb,
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link:hover,
+.btn-tertiary:hover,
+.bg-tertiary,
+.accordion .card-header a.collapsed:before,
+.accordion:before,
+.accordion a:before,
+dropdown-item:focus,
+dropdown-item:hover,
+dropdown-item.active,
+.accordion-cards .card-header:hover,
+.accordion-cards .card-header:focus,
+.badge-primary,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.alert-primary,
+.list-group-item-action:focus,
+.list-group-item-action:hover,
+.team-style1 .title:after,
+.team-style1 .title:before,
+.contact-icon .top-icon {
+    background-color: #D61C62;
+}
+
+.accordion .card-link:hover,
+.accordion .card-link:focus,
+.navbar .nav-item.active a,
+.team-style1 .post:before,
+.owl-prev i,
+.owl-next i,
+.serviceBox2 .service-icon,
+.text-tertiary,
+.contact-image i,
+blockquote:after,
+blockquote:before,
+.team-style1:hover .social li a,
+figure.team-style3 i,
+.serviceBox .service-icon i,
+ul.checkmark li:before,
+.colored-icons i,
+a:hover,
+a:focus,
+.team-style1:hover .social li a:hover,
+a h5:hover,
+a h4:hover {
+    color: #D61C62;
+}
+
+.contact-form3.bg-secondary .form-control:focus,
+.custom-link:hover,
+.custom-link:focus,
+.form-control,
+.alert-primary,
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+    border-color: #21201D;
+}
+
+/* Fix broken selectors */
+.nav-pills .nav-link {
+    background-color: #991849;
+}
